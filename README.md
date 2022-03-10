@@ -1,6 +1,6 @@
-<!---
-TODO
---->
+
+TO-DO:
+
 
 - 👋 Hi, I’m @dooqie
 - 👀 I’m interested in ...
